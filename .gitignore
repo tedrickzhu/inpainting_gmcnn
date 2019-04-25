@@ -2,3 +2,5 @@
 *.index
 *.data*
 *.pyc
+.idea/
+.DS_Store
